@@ -1,0 +1,9 @@
+Building 007Coin
+
+See doc/readme-qt.rst for instructions on building 007Coin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of 007Coin.
+
+See doc/build-*.txt for instructions on building 007coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of 007Coin.
